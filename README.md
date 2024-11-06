@@ -55,4 +55,4 @@ The Telegram Scraper comes with a grand total of 40 features and countless versa
 15. Compatible with all operating systems!
 16. Updates and Support for lifetime!
 
-<a href="https://github.com/Best-Tg-Tools/TelegramScraper"><img alt="Cute Count" src="https://count.getloli.com/get/@Best-Tg-Tools?theme=rule34" /></a>
+<a href="https://github.com/Best-Tg-Tools/TelegramScraper"><img alt="Cute Count" src="https://count.getloli.com/get/@Best-Tg-Tools?theme=booru-the-collection" /></a>
